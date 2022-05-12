@@ -20,6 +20,11 @@ public class TestaPontoFlutuante {
 		
 		System.out.println(novaTentativa);
 		
+		double testeNovamente = 101.00;
+		
+		
+		System.out.println(testeNovamente / 2);
+		
 	}
 
 }
